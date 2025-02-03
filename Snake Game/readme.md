@@ -10,12 +10,12 @@ Welcome to the **Snake Game** 🎮 developed using **Python & Pygame**.
 
 ## 📸 Screenshots
 ### 🏠 Welcome Screen
-![Welcome Screen](Screenshots\welcome.jpeg)
+![Welcome Screen](https://github.com/Shivam180709/MiniGamesHub/blob/main/Snake%20Game/Screenshots/welcome.jpeg)
 ### 🎮 Gameplay
-![Playing Screen](Screenshots/pw.jpg)
+![Playing Screen](https://github.com/Shivam180709/MiniGamesHub/blob/main/Snake%20Game/Screenshots/pw.jpeg)
 
 ### ❌ Game Over
-![Game Over Screen](Screenshots/gameover.jpg)
+![Game Over Screen](https://github.com/Shivam180709/MiniGamesHub/blob/main/Snake%20Game/Screenshots/gameover.jpeg)
 
 ## 🛠 Requirements
 Ensure you have **Python** installed along with the required libraries:
