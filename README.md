@@ -12,7 +12,7 @@ Welcome to **MiniGamesHub**, a collection of fun and engaging mini-games develop
 - 🐍 Snake Game
 - 🐦 Flappy Bird
 - ❌⭕ Tic Tac Toe
-- Boardless Chess
+- ♟️ Boardless Chess
 - And more coming soon!
 
 ## 📜 License
