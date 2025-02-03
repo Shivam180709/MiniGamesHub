@@ -97,6 +97,7 @@ def gameloop():
         if game_over:
             
             if pt == 0:
+                INITIAL_SPEED = 15
                 bg_song.stop()
                 gameover_sound.play()
                 time.sleep(1)
