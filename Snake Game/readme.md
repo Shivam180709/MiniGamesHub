@@ -10,7 +10,7 @@ Welcome to the **Snake Game** 🎮 developed using **Python & Pygame**.
 
 ## 📸 Screenshots
 ### 🏠 Welcome Screen
-![Welcome Screen](Screenshots/welcome.jpg)
+![Welcome Screen](Screenshots\welcome.jpeg)
 ### 🎮 Gameplay
 ![Playing Screen](Screenshots/pw.jpg)
 
