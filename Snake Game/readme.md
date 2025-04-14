@@ -1,6 +1,7 @@
 # 🐍 Snake Game
 
-Welcome to the **Snake Game** 🎮 developed using **Python & Pygame**.\n
+Welcome to the **Snake Game** 🎮 developed using **Python & Pygame**.
+
 Exe available at **https://shivam-pathak.itch.io/snake-game**.
 
 ## 📌 Features
